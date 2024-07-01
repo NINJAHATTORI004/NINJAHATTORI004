@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎞{<br><br>Just someone who has got the urge to let the old bygone texts meet the new tech savvy☜(ﾟヮﾟ☜)<br><br><br>Ask, and it shall be given you; seek, and you shall find it here<br><br>}🎞</p>
+<p align="left">🎞{<br><br>Just got the urge to let the old bygone texts meet the new tech-savvy☜(ﾟヮﾟ☜)<br><br><br>Ask, and it shall be given you; seek, and you shall find it here<br><br>}🎞</p>
 
 ###
 
