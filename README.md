@@ -174,7 +174,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/6a0f3645b45d2125e702c73b72092587b45d0db8b11923f28b33b06d0737fcd9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874"  />
+  <img height="200" src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  />
 </div>
 
 ###
