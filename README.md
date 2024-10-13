@@ -171,11 +171,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  />
-</div>
 
 ###
 
