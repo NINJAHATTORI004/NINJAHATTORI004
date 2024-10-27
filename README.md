@@ -21,6 +21,10 @@
   <a href="https://www.instagram.com/w3b.ansh._/?igsh=MWF1cWJ5dm9iMGp1eg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+
+   <a href="https://ninjahattori004.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
   
 </div>
 
