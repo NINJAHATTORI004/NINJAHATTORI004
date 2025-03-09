@@ -1,11 +1,14 @@
-<h1 align="center">HOLA 👋<br>This is ANSH <br>on the other side of screen;)</h1>
+<h1 align="center">HOLA 👋<br>This is ANSH <br>on the other side of screen :)</h1>
 
-###
+Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
 
-<p align="left">🎞{<br><br>Just got the urge to let the old bygone texts meet the new tech-savvy☜(ﾟヮﾟ☜)<br><br><br>Ask, and it shall be given you; seek, and you shall find it here<br><br>}🎞</p>
-
-###
-
+> *May you do evil and mischievous and diabolical acts*  
+> *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*  
+> *May you never apologise*  
+> *Life is shit, try make it less shit for others*
+> 
+> *Ask, and it shall be given you; seek, and you shall find it here*
+> *Ⓐ*  
 <div align="center">
   <a href="https://www.linkedin.com/in/ansh-mittal-6b5438249/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -31,14 +34,6 @@
   </a>
   
 </div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://www.logicalclass.com/lc/kcfinder/upload/images/Capture%281835%29.JPG"  />
-</div>
-
-###
 
 <h3 align="left">🛠 Tech Stack</h3>
 
@@ -155,25 +150,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NINJAHATTORI004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjahattori004&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninjahattori004&theme=vision_friendly_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninjahattori004&theme=vision_friendly_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninjahattori004&theme=vision_friendly_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ninjahattori004&theme=vision_friendly_dark&utcOffset=8"> 
+</div>
+<div align="center">
+  <img height="300" src="https://www.logicalclass.com/lc/kcfinder/upload/images/Capture%281835%29.JPG"  />
+  <img height="300" src="https://i.pinimg.com/originals/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NINJAHATTORI004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NINJAHATTORI004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.png"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://buymeacoffee.com/ninjahattori004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
