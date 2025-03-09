@@ -1,6 +1,9 @@
 <div align="center">
-  <img height="300" src="https://www.logicalclass.com/lc/kcfinder/upload/images/Capture%281835%29.JPG"  />
+  <img height="300" src="https://github.com/NINJAHATTORI004/NINJAHATTORI004/blob/main/haha.jpg"  />
 </div>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
 
