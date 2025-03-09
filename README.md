@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Encounter***
 
-Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
+Everything I make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
 
 > *May you do evil and mischievous and diabolical acts*  
 > *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*  
