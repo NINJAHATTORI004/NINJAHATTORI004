@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://github.com/NINJAHATTORI004/NINJAHATTORI004/blob/main/haha.jpg"  />
+  <img height="300" src="https://github.com/NINJAHATTORI004/NINJAHATTORI004/blob/main/heyhey.jpg"  />
 </div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
