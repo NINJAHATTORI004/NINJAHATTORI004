@@ -173,6 +173,9 @@ Everything I make is public domain, instead of a classical licence, here's a Ble
 </table>
 <br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c5d2JiZ3drOHVhcmluZXUwOHJpNnRoNjh3NWZxeGRqcG8xY3Y1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fng8OzU2DvO2NCGeLY/giphy.gif" width="30px">&nbsp;Stats
+
+  <br>
+  </br>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjahattori004&theme=vision_friendly_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninjahattori004&theme=vision_friendly_dark"> 
