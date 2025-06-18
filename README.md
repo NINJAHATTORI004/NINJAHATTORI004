@@ -32,10 +32,6 @@ Everything I make is public domain, instead of a classical licence, here's a Ble
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
   </a>
 
-  <a href="https://www.cloudskillsboost.google/public_profiles/1d0b9347-3f5c-4512-b5d0-6fda43b8ef1c" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google Cloud&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  
  <a href="https://www.instagram.com/w3b.ansh._/?igsh=MWF1cWJ5dm9iMGp1eg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
